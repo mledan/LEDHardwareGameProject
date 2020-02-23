@@ -8,7 +8,16 @@ PARTS LIST
 -8xNeopixel strip
 -wires
 
-
+ATTiny85 PINOUT
+----------------
+```
+                         +---\/---+                          
+                    PB5  |1*     8|  VCC -- +5V              
+                    PB3  |2      7|  PB2                     
+ PLAYER 1 BUTTON -- PB4  |3      6|  PB1 -- NEOPIXEL DATA    
+              0V -- GND  |4      5|  PB0 -- PLAYER 2 BUTTON  
+                         +--------+                          
+```
 
 Potential Future Enhancements Backlog
 ---------------------------
