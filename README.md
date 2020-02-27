@@ -12,9 +12,9 @@ ATTiny85 PINOUT
 ----------------
 ```
                          +---\/---+                          
-                    PB5  |1*     8|  VCC -- +5V              
-                    PB3  |2      7|  PB2                     
- PLAYER 1 BUTTON -- PB4  |3      6|  PB1 -- NEOPIXEL DATA    
+       RESET ISR -- PB5  |1*     8|  VCC -- +5V              
+PLAYER 1 SCORE OUT--PB3  |2      7|  PB2 -- PLAYER 1 BUTTON                    
+PLAYER 2 SCORE OUT--PB4  |3      6|  PB1 -- NEOPIXEL DATA    
               0V -- GND  |4      5|  PB0 -- PLAYER 2 BUTTON  
                          +--------+                          
 ```
