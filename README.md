@@ -30,3 +30,6 @@ Potential Future Enhancements Backlog
 -python port
 -web version javascript port
 
+Simulation
+-------------
+https://wokwi.com/projects/353510063839787009
